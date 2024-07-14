@@ -21,4 +21,6 @@ function saldo(vitoria, derrota) {
     console.log("O Herói tem de saldo de " + rank + " está no nível de " + nivel)
 }
 
+// valores para testes!
 saldo(92, 10)
+saldo(20, 15)
